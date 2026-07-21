@@ -9,7 +9,7 @@ Building scalable SaaS platforms, AI-powered applications, and modern web soluti
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **5+ years of experience** building scalable SaaS platforms, AI-powered applications, modern web applications, and automation systems.
+I'm a **Full Stack Developer** with **15 years of experience** building scalable SaaS platforms, AI-powered applications, modern web applications, and automation systems.
 
 I specialize in designing and developing end-to-end solutions using **React, Next.js, Node.js, TypeScript, Python, PostgreSQL, and cloud technologies**. I enjoy transforming ideas into secure, scalable, and production-ready software that solves real business challenges.
 
